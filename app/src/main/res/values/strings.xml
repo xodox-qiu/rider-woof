@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KamenRider</string>
+        <string name="rider_name_1">Agito</string>
+        <string name="rider_name_2">OOO</string>
+        <string name="rider_name_3">Den-O</string>
+        <string name="rider_name_4">Ex-Aid</string>
+        <string name="descript_1">A man named Shoichi Tsugami has lost his memories. He doesn\'t know who he is, where he came from, or how he came upon his peculiar circumstances. </string>
+        <string name="descript_2">Eiji Hino is a traveling man who has no place to call home and a tragic past. When coin-based homunculi known as the Greeed awaken after their 800-year slumber to attack humans and feed off of their desires,</string>
+        <string name="descript_3">Ryotaro Nogami is a young man with a lot of bad luck. One day, he finds a strange pass and things got stranger from a mysterious girl and a large time-traveling train to being possessed by an entity called an Imagin, beings from an alternate future whose kind are attempting to change the past.</string>
+        <string name="descript_4">Emu found love with video games, leading to the creation of Mighty Brothers XX that he sent to Genm Corp. in a fan letter. After Kuroto Dan sent him the Mighty Action C game, the young Emu was infected with a Bugster Virus strain.</string>
+        <string name="about">About</string>
+        <string name="years_old">%d Years old as Human</string>
+        <string name="expand_button_content_description">See more or less information about the rider.</string>
+</resources>
